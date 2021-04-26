@@ -1,0 +1,100 @@
+#menu table{
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    width: 50%;
+ }
+ #menu td{
+    border: 1px solid #bbc7c7 ;
+    padding: 8px;
+    color: #d4e4db;
+}
+#menu th{
+    border: 1p solid #add;
+    padding: 8px ;
+    color: seagreen;
+
+    }
+    body{
+        background-color: #F15A29;
+        
+    }
+
+
+    
+    #banner>a{
+        text-decoration: none;
+
+    
+    }
+
+
+
+
+
+
+    
+
+
+p{
+    text-align: center;
+}
+#banner>a>h4{
+    border: 2px solid white;
+    width: 20%;
+    height: 20%;
+    margin-left: 40%;
+    margin-top: 10%;
+    padding-bottom: 1%;
+    text-align: center;
+    color:blue;
+ }
+ #banner>a>h4{
+     background-color: rgba(221, 109, 35,0.675);
+     color: rgba(0, 35, 122, 0.7);
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nav {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 10px 0;
+    margin-right: 0%
+ }
+ nav>ul>li{
+     text-align: right;
+     display: inline-block;
+     list-style: none;
+ }
+ 
+ nav>ul>li>a {
+    padding: 15px;
+    margin-right: 0;
+    text-transform: uppercase;
+    text-decoration: none;
+    display: block;
+    color: rgba(255, 255, 255, 0.733);
+    }
+    nav>ul>li>a{
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1), inset 0 0 1px rgba(255, 255, 255, 0.6);
+        background: rgba(221, 109, 35, 0.678);
+        color: rgba(0, 35, 122, 0.7);
+        }
